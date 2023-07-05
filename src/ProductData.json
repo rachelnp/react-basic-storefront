@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "itemName": "Minimalist Arrangement",
+      "description": "A minimalist lovers dream. This simple bouquet will bring joy to spaces and places.",
+      "size": "Petite",
+      "price": 20,
+      "imageURL": "https://images.unsplash.com/photo-1588622673923-83a6e5fe723d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zmxvd2VyJTIwYXJyYW5nZW1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 3,
+      "itemName": "Petite Peach",
+      "description": "A petite peach arrangement of seasonal flowers. Brighten any space or say I love you with this arrangment.",
+      "price": "25",
+      "size": "Petite",
+      "imageURL": "https://images.unsplash.com/photo-1603178455924-ef33372953bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zmxvd2VycyUyMGluJTIwdmFzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 4,
+      "itemName": "Peonies",
+      "description": "Local bundle of peonies. Colors are available based on seasonal availability. When you're looking for flowers for online delivery, peonies make a superb choice. ",
+      "size": "Small",
+      "price": 17,
+      "imageURL": "https://images.unsplash.com/photo-1560256608-43f0b6f7588e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zmxvd2VycyUyMGluJTIwdmFzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 5,
+      "itemName": "Peach Paradise",
+      "description": "A warm toned peach bundle of flowers and greenery. Send to a loved one, a friend, or use as a centerpiece.",
+      "size": "Medium",
+      "price": 25,
+      "imageURL": "https://images.unsplash.com/photo-1572454591674-2739f30d8c40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZsb3dlciUyMGFycmFuZ2VtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 6,
+      "itemName": "Lilac Love",
+      "description": "Lilac arrangement with lavendar and lilac toned flowers, complete with cascading orchids and roses.",
+      "size": "Medium",
+      "price": 25,
+      "imageURL": "https://images.unsplash.com/photo-1578934691229-08987b226b47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZsb3dlciUyMGFycmFuZ2VtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 7,
+      "itemName": "Enchanting Arrangement",
+      "description": "A large arrangement complete with cascading flowers sure to show your love and affection. Also great as a wedding centerpiece. For bulk orders, contact.",
+      "size": "Large",
+      "price": 40,
+      "imageURL": "https://images.unsplash.com/photo-1591966801718-48eb8ba0f8f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zmxvd2VyJTIwYXJyYW5nZW1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "itemName": "House Plant",
+      "description": "House plants add greenery to any area, livening up any room. These low maintenance plants will bring life to your space. ",
+      "price": "15",
+      "size": "Small",
+      "imageURL": "https://images.unsplash.com/photo-1582131503261-fca1d1c0589f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dmFzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
+      "id": 8
+    },
+    {
+      "itemName": "Market Bundle",
+      "description": "A local, seasonal bundle of flowers. Perfect for a gift or to brighten up a simple space.",
+      "price": "15",
+      "size": "Small",
+      "imageURL": "https://images.unsplash.com/photo-1606104218551-2c2ad1231dc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zmxvd2VyJTIwYXJyYW5nZW1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "id": 9
+    }
+  ]
+}
